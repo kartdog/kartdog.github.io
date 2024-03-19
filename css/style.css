@@ -3,6 +3,8 @@
 
 body {
     font-family: 'Inter', sans-serif;
+    padding-left: 50px;
+    padding-right: 50px;
     text-align: center;
     margin-top: 400px;
 }
@@ -35,5 +37,19 @@ footer {
     position: fixed;
     left: 0;
     bottom: 0;
+}
+
+.intro {
+    position: static;
+    font-size: 25px;
+    margin-left: 15px;
+    font-weight: 500;
+    padding-right: 250px;
+}
+
+.nombre {
+    font-size: 25px;
+    font-weight: 400;
+    padding-right: 60px;
 }
 
